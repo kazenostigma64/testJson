@@ -14,7 +14,7 @@
             "NewsUrl": "https://narafa.notice-preview.com/?p=116",
             "NewsStartDay": "2024-11-15 00:00",
             "NewsEndDay": "2025-01-15 23:59:00",
-            "ThumbnailUrl": ""
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/shop_news_img.png"
         },
         {
             "FacCode": "003",
@@ -46,7 +46,7 @@
             "NewsUrl": "https://narafa.notice-preview.com/?p=608",
             "NewsStartDay": "2024-12-15 00:00",
             "NewsEndDay": "2024-12-15 23:59:00",
-            "ThumbnailUrl": ""
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/shop_news_img.png"
         },
         {
             "FacCode": "003",
@@ -62,7 +62,7 @@
             "NewsUrl": "https://narafa.notice-preview.com/?p=1535",
             "NewsStartDay": "2024-12-04 17:37",
             "NewsEndDay": "2025-11-30 21:00:00",
-            "ThumbnailUrl": ""
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample2.png"
         },
         {
             "FacCode": "003",
@@ -94,7 +94,7 @@
             "NewsUrl": "https://narafa.notice-preview.com/?p=1131",
             "NewsStartDay": "2025-01-28 15:29",
             "NewsEndDay": null,
-            "ThumbnailUrl": ""
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample2.png"
         }
     ]
 }

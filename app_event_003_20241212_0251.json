@@ -14,7 +14,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/events-1203/",
             "EventStartDay": "2024-12-09 00:00",
             "EventEndDay": "2025-12-15 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/12/1203_1_l.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample.png"
         },
         {
             "FacCode": "003",
@@ -30,7 +30,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/12%e6%9c%88%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b1%f0%9f%a7%a3/",
             "EventStartDay": "2024-12-01 00:00",
             "EventEndDay": "2025-12-31 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/12/1d83b40c42309713b78b9001b250c9e2.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/shop_news_img.png"
         },
         {
             "FacCode": "003",
@@ -46,7 +46,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/2024-2025schedule/",
             "EventStartDay": "2024-11-15 00:00",
             "EventEndDay": "2025-01-04 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/11/2412_narafa_kyukan_annai_banner_900_900.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample.png"
         },
         {
             "FacCode": "003",
@@ -62,7 +62,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/events-1177/",
             "EventStartDay": "2024-12-01 00:00",
             "EventEndDay": "2025-03-16 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/11/24_narafa_app_campaign_vol1_HP900.jpg"
+            "ThumbnailUrl": ""
         },
         {
             "FacCode": "003",
@@ -78,7 +78,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/events-1212/",
             "EventStartDay": "2024-12-10 00:00",
             "EventEndDay": "2024-12-31 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/12/1212_1_l.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/shop_news_img.png"
         },
         {
             "FacCode": "003",
@@ -110,7 +110,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/12%e6%9c%88%e3%81%aeline%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%82%af%e3%83%bc%e3%83%9d%e3%83%b3%e2%9c%a8/",
             "EventStartDay": "2025-01-01 00:00",
             "EventEndDay": "2025-12-31 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/11/b948ac90e94853e53bf95f8ff3ee5e20.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample.png"
         },
         {
             "FacCode": "003",
@@ -126,7 +126,7 @@
             "EventUrl": "https://narafa.notice-preview.com/events/1206/",
             "EventStartDay": "2025-01-22 00:00",
             "EventEndDay": "2025-12-25 23:59:00",
-            "ThumbnailUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/11/475ff48e68494f612afab7ee91ebb51a.jpg"
+            "ThumbnailUrl": "https://raw.githubusercontent.com/kazenostigma64/testJson/refs/heads/main/sample.png"
         }
     ]
 }
