@@ -6,10 +6,10 @@
             "Timestamp": "2024-11-10 00:00",
             "FlagHidden": "0",
             "BannerTitle": "<重要なお知らせ>らくだカード終了のご案内",
-            "LinkUrl": "https://narafa.jp/events/1152.html",
+            "LinkUrl": "https://narafa.jp/events/1067.html",
             "BannerStartDay": "2024-11-10 00:00",
             "BannerEndDay": "2024-12-15 23:59:00",
-            "BannerUrl": "https://narafa.jp/wp-content/uploads/2024/12/narafa_banner_02-768x768.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100098/banner_1731406416.1785.3667830.jpeg"
         },
         {
             "FacCode": "003",
@@ -17,10 +17,10 @@
             "Timestamp": "2024-11-09 00:00",
             "FlagHidden": "0",
             "BannerTitle": "クリスマスステージ",
-            "LinkUrl": "https://narafa.jp/events/1203.html",
+            "LinkUrl": "https://narafa.jp/takeout/",
             "BannerStartDay": "2024-11-09 00:00",
             "BannerEndDay": "2024-12-15 23:59:00",
-            "BannerUrl": "https://narafa.jp/wp-content/uploads/2024/12/1d83b40c42309713b78b9001b250c9e2-768x768.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100098/banner_1731406902.5749.3667874.jpeg"
         },
         {
             "FacCode": "003",
@@ -28,10 +28,10 @@
             "Timestamp": "2024-11-08 00:00",
             "FlagHidden": "0",
             "BannerTitle": "ならファミリー求人募集サイト",
-            "LinkUrl": "https://job-gear.net/narafa/",
+            "LinkUrl": "https://narafa.jp",
             "BannerStartDay": "2024-11-08 00:00",
             "BannerEndDay": "2025-12-04 16:33:00",
-            "BannerUrl": "https://narafa.jp/takeout/assets/img/takeout/img_washoku-02.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100098/banner_1731406984.1643.3667897.jpeg"
         },
         {
             "FacCode": "003",
@@ -42,7 +42,7 @@
             "LinkUrl": "https://narafa.jp/events/1067.html",
             "BannerStartDay": "2024-11-07 00:00",
             "BannerEndDay": "2025-12-04 16:33:00",
-            "BannerUrl": "https://narafa.notice-preview.com/wp-content/uploads/2024/11/narafa_banner_02.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100110/banner_1726566672.189.2129925.png"
         },
         {
             "FacCode": "003",
@@ -53,7 +53,7 @@
             "LinkUrl": "https://www.narafa.jp/events/1066.html",
             "BannerStartDay": "2024-11-06 00:00",
             "BannerEndDay": "2025-12-04 16:33:00",
-            "BannerUrl": "https://narafa.jp/takeout/assets/img/takeout/img_washoku-02.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100110/banner_1731653382.034.7621.jpeg"
         },
         {
             "FacCode": "003",
@@ -64,7 +64,7 @@
             "LinkUrl": "https://narafa.jp/takeout/",
             "BannerStartDay": "2024-11-05 00:00",
             "BannerEndDay": "2025-12-04 16:31:00",
-            "BannerUrl": "https://narafa.jp/wp-content/uploads/2024/12/1d83b40c42309713b78b9001b250c9e2-768x768.jpg"
+            "BannerUrl": "https://ma2shop.lvdev.jp/hq//banner/100110/banner_1731900258.5049.545233.jpeg"
         }
     ]
 }
