@@ -60,6 +60,60 @@
                     "tel": "048-949-5621"
                 }
             ]
+        },
+        {
+            "shop_name": "スーパービバホーム大阪店",
+            "client_shop_cd": "3456",
+            "address": "大阪府大阪市北区梅田1-1-1",
+            "open_time": "生活館)9:00〜21:00、資材館)6:00〜21:00",
+            "building_name": "大阪店",
+            "area_code": "40",
+            "area_name": "近畿",
+            "pref_code": "27",
+            "pref_name": "大阪府",
+            "display_order": "41100",
+            "tel_list": [
+                {
+                    "icon_id": "01",
+                    "tel": "06-0000-0001"
+                }
+            ]
+        },
+        {
+            "shop_name": "スーパービバホーム京都店",
+            "client_shop_cd": "3333",
+            "address": "京都府京都市中京区河原町1-1-2",
+            "open_time": "生活館)9:00〜21:00、資材館)6:00〜21:00",
+            "building_name": "京都店",
+            "area_code": "40",
+            "area_name": "近畿",
+            "pref_code": "26",
+            "pref_name": "京都府",
+            "display_order": "41101",
+            "tel_list": [
+                {
+                    "icon_id": "01",
+                    "tel": "075-000-0001"
+                }
+            ]
+        },
+        {
+            "shop_name": "スーパービバホーム福岡店",
+            "client_shop_cd": "5678",
+            "address": "福岡県福岡市博多区博多駅前1-1-1",
+            "open_time": "生活館)9:00〜21:00、資材館)6:00〜21:00",
+            "building_name": "福岡店",
+            "area_code": "70",
+            "area_name": "九州",
+            "pref_code": "40",
+            "pref_name": "福岡県",
+            "display_order": "71100",
+            "tel_list": [
+                {
+                    "icon_id": "01",
+                    "tel": "092-000-0001"
+                }
+            ]
         }
     ]
 }
